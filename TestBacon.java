@@ -1,4 +1,5 @@
 public class TestBacon {
+	//Use to test smaller amounts of data
 	public static void main(String[] args){
 		AdjacencyListGraphMap<String, String> bg = new AdjacencyListGraphMap<String, String>();
 		BaconHelper bh = new BaconHelper();

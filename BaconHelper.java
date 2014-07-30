@@ -8,6 +8,7 @@ import java.util.TreeMap;
 import net.datastructures.*;
 
 public class BaconHelper {
+	 //@author Scott Nelson for CS 10 at Dartmouth College
 
 	//Performs Breadth First Search starting from a given index
 	//Returns the shortest-path tree for the vertices
